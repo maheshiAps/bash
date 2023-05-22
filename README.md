@@ -1,2 +1,2 @@
 # bash
-Bash scripts 2K23
+GCP cluster bash scripts 2K23
